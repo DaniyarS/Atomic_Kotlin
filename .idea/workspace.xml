@@ -1,60 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d58a2ac-aa86-4a33-8d14-9aca9c803a30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/first_chapter/FirstChapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/constructors/Arg.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/constructors/DisplayAlienSpecies.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/constructors/MultipleArgs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/constructors/Scientist.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/constructors/VisibleArgs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/constructors/Wombat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/creating_a_classes/Animals.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/creating_a_classes/Cat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/creating_a_classes/Dog.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/creating_a_classes/Hamster.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/packages/FullyQualify.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/packages/ImportClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/packages/ImportEverything.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/packages/ImportNameChange.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/packages/ImportPythagorean.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/packages/PythagoreanTheorem.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/properties/AnUnchangingVar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/properties/ChangingAVal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/properties/Cup.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/properties/Cup2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/properties/References.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/properties/TopLevelProperty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/visibility/Cookie.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/visibility/MultipleRef.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/visibility/ObserveAnimals.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/visibility/RecordAnimals.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/atomic_test/AtomicTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/atomic_test/TDDFail.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/atomic_test/TDDStillFails.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/atomic_test/TDDWorks.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/atomic_test/TestingExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/atomic_test/Tracel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/exceptions/AverageIncome.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/exceptions/AverageIncomeWithException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/exceptions/AverageIncomeWithNull.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/exceptions/IntroducingCapture.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/exceptions/IntroducingNull.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/exceptions/ToIntException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/others/FirstTask.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/others/Rabbits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/others/SecondTask.kt" afterDir="false" />
+    <list default="true" id="2d58a2ac-aa86-4a33-8d14-9aca9c803a30" name="Changes" comment="kotlin course">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/ListUsefulFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/Lists.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/MutListIsList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/MutableList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/MutableListRefs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/OutOfBounds.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/ParametrizedReturn.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/ParametrizedTypes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,44 +40,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/daniyars/IdeaProjects/Algorithms",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.SecondTaskKt">
-    <configuration name="AverageIncomeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.third_chapter.exceptions.AverageIncomeKt" />
+}]]></component>
+  <component name="RunManager" selected="Kotlin.MutableListRefsKt">
+    <configuration name="MutListIsListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.fourth_chapter.MutListIsListKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AverageIncomeWithExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="properexception.AverageIncomeWithExceptionKt" />
+    <configuration name="MutableListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.fourth_chapter.MutableListKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntroducingCaptureKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.third_chapter.exceptions.IntroducingCaptureKt" />
+    <configuration name="MutableListRefsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.fourth_chapter.MutableListRefsKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntroducingNullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.third_chapter.exceptions.IntroducingNullKt" />
+    <configuration name="ParametrizedReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.fourth_chapter.ParametrizedReturnKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondTaskKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="others.SecondTaskKt" />
+    <configuration name="ParametrizedTypesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.fourth_chapter.ParametrizedTypesKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.SecondTaskKt" />
-        <item itemvalue="Kotlin.AverageIncomeWithExceptionKt" />
-        <item itemvalue="Kotlin.AverageIncomeKt" />
-        <item itemvalue="Kotlin.IntroducingNullKt" />
-        <item itemvalue="Kotlin.IntroducingCaptureKt" />
+        <item itemvalue="Kotlin.MutableListRefsKt" />
+        <item itemvalue="Kotlin.MutListIsListKt" />
+        <item itemvalue="Kotlin.MutableListKt" />
+        <item itemvalue="Kotlin.ParametrizedReturnKt" />
+        <item itemvalue="Kotlin.ParametrizedTypesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +106,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662644795876</updated>
     </task>
+    <task id="LOCAL-00001" summary="kotlin course">
+      <created>1664686050433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664686050433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kotlin course" />
+    <option name="LAST_COMMIT_MESSAGE" value="kotlin course" />
   </component>
 </project>
