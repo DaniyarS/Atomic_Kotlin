@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d58a2ac-aa86-4a33-8d14-9aca9c803a30" name="Changes" comment="kotlin course">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/ListUsefulFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/Lists.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/MutListIsList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/MutableList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/MutableListRefs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/OutOfBounds.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/ParametrizedReturn.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/ParametrizedTypes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/MainArgConversion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/MainArgs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/SpreadOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/TwoFunctionsWithVarargs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/VarArgSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/VarargLikeList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/VariableArgList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/maps/GetValue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/maps/Maps.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/maps/MutableMaps.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/maps/ReadOnlyMaps.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/sixth_chapter/MutableSet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/sixth_chapter/RemoveDuplicates.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/sixth_chapter/Sets.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/others/FirstTask.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/others/FirstTask.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,52 +55,65 @@
     "last_opened_file_path": "/Users/daniyars/IdeaProjects/Algorithms",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.MutableListRefsKt">
-    <configuration name="MutListIsListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.fourth_chapter.MutListIsListKt" />
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="atomic_kotlin.fifth_chapter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.FirstTaskKt">
+    <configuration name="FirstTaskKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstTaskKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutableListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.fourth_chapter.MutableListKt" />
+    <configuration name="MapsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.maps.MapsKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutableListRefsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.fourth_chapter.MutableListRefsKt" />
+    <configuration name="MutableMapsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.maps.MutableMapsKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParametrizedReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.fourth_chapter.ParametrizedReturnKt" />
+    <configuration name="MutableSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.sixth_chapter.MutableSetKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParametrizedTypesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.fourth_chapter.ParametrizedTypesKt" />
+    <configuration name="ReadOnlyMapsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.maps.ReadOnlyMapsKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Kotlin.FirstTaskKt" />
+      <item itemvalue="Kotlin.MapsKt" />
+      <item itemvalue="Kotlin.MutableMapsKt" />
+      <item itemvalue="Kotlin.MutableSetKt" />
+      <item itemvalue="Kotlin.ReadOnlyMapsKt" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MutableListRefsKt" />
-        <item itemvalue="Kotlin.MutListIsListKt" />
-        <item itemvalue="Kotlin.MutableListKt" />
-        <item itemvalue="Kotlin.ParametrizedReturnKt" />
-        <item itemvalue="Kotlin.ParametrizedTypesKt" />
+        <item itemvalue="Kotlin.FirstTaskKt" />
+        <item itemvalue="Kotlin.ReadOnlyMapsKt" />
+        <item itemvalue="Kotlin.MutableMapsKt" />
+        <item itemvalue="Kotlin.MapsKt" />
+        <item itemvalue="Kotlin.MutableSetKt" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664686050433</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="kotlin course">
+      <created>1664948918925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664948918925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
