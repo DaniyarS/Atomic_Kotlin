@@ -1,178 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d58a2ac-aa86-4a33-8d14-9aca9c803a30" name="Changes" comment="kotlin course">
-      <change afterPath="$PROJECT_DIR$/.fleet/run.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Arbuz.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TooLongWords.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/YandexA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/YandexB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/YandexB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/StackLes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/break_and_continue_12/ForControl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/break_and_continue_12/ForLabel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/break_and_continue_12/Improved.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/break_and_continue_12/WhileControl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/break_and_continue_12/WhileLabel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/data_classes/CopyDataClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/data_classes/DataClasses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/data_classes/HashCode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/data_classes/Simple.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/destructing_declarations/Computation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/destructing_declarations/PairDestructing.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/destructing_declarations/Pairs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/destructing_declarations/Tuple.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/enumurations/CheckingOptions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/enumurations/Direction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/enumurations/Level.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/extension_properties_11/AnyFromListOfStar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/extension_properties_11/GenericListExt.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/extension_properties_11/ListOfStar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/extension_properties_11/StringIndices.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/intro_generics/AnyInstead.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/intro_generics/GenericFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/intro_generics/GenericHolder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/intro_generics/GenericListExtensions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/intro_generics/RigidHolder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/maps/ContactMap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/maps/GetValue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/non_null_assertions/NonNullAssert.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/non_null_assertions/NonNullAssertCall.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/non_null_assertions/ValueFromMap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/nullable_extensions/NullableExtension.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/nullable_extensions/NullableParameter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/nullable_extensions/StringIsNullOr.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/nullable_types/Amphibian.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/nullable_types/Dereference.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/nullable_types/ExplicitCheck.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/nullable_types/NullInMaps.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/nullable_types/NullableInMap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/nullable_types/NullableTypes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/property_accessors/Counter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/property_accessors/Data.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/property_accessors/Default.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/property_accessors/Hamsters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/property_accessors/Hamsters2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/property_accessors/LogChanges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/safe_calls_and_elvis/ChainedCalls.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/safe_calls_and_elvis/DereferenceNull.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/safe_calls_and_elvis/ElvisCall.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/safe_calls_and_elvis/ElvisOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/safe_calls_and_elvis/SafeCall.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/safe_calls_and_elvis/SafeOperation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/constructors/Wombat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/visibility/ObserveAnimals.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/importance_of_lambdas_2/Closures.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/importance_of_lambdas_2/Closures2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/importance_of_lambdas_2/Filter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/importance_of_lambdas_2/FilterEven.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/importance_of_lambdas_2/FunctionClosure.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/importance_of_lambdas_2/GreaterThanTwo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/importance_of_lambdas_2/StoringLambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/importance_of_lambdas_2/Sum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/lambdas_1/BasicLambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/lambdas_1/JoinToString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/lambdas_1/LambdaAndNamedArgs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/lambdas_1/LambdaIt.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/lambdas_1/Mapping.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/lambdas_1/OmittingParentheses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/lambdas_1/TwoArgLambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/lambdas_1/UnderScore.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/lambdas_1/ZeroArguments.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/operations_on_collections_3/ByOperations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/operations_on_collections_3/CreatingLists.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/operations_on_collections_3/FilterNotNull.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/operations_on_collections_3/ListInit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/operations_on_collections_3/PairOfLists.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/operations_on_collections_3/Partition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/operations_on_collections_3/Predicates.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/operations_on_collections_3/SetOperations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/operations_on_collections_3/TakeOrDrop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/ExtensionFunctions/BookExtensions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/ExtensionFunctions/Quote.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/ExtensionFunctions/Quoting.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/ExtensionFunctions/StrangeQuote.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/named_and_default_arguments/ArgumentOrder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/named_and_default_arguments/Color2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/named_and_default_arguments/Color3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/named_and_default_arguments/CreateString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/named_and_default_arguments/CreateString2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/named_and_default_arguments/Evaluation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/named_and_default_arguments/NamedArguments.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/named_and_default_arguments/TrimMargin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/overloading/MemberVsExtension.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/overloading/OverloadedVsDefaultArg.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/overloading/Overloading.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/overloading/OverloadingAdd.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/overloading/WithDefaultArguments.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_three/overloading/WithoutDefaultArguments.kt" afterDir="false" />
+    <list default="true" id="2d58a2ac-aa86-4a33-8d14-9aca9c803a30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Task44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/high_order_functions_5/Any.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/high_order_functions_5/CallingReference.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/high_order_functions_5/IsPlus.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/high_order_functions_5/NullableFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/high_order_functions_5/NullableReturn.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/high_order_functions_5/Repeat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/high_order_functions_5/RepeatByInt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/member_reference_4/ConstructorReference.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/member_reference_4/ExtensionsReference.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/member_reference_4/FunctionReference.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/member_reference_4/PropertyReference.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/member_reference_4/SortWith.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_4/member_reference_4/TopLevelFunctionRef.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/MainArgConversion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fifth_chapter/MainArgConversion.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/MainArgs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fifth_chapter/MainArgs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/SpreadOperator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fifth_chapter/SpreadOperator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/TwoFunctionsWithVarargs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fifth_chapter/TwoFunctionsWithVarargs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/VarArgSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fifth_chapter/VarArgSum.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/VarargLikeList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fifth_chapter/VarargLikeList.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fifth_chapter/VariableArgList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fifth_chapter/VariableArgList.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/first_chapter/FirstChapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/first_chapter/FirstChapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/ListUsefulFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fourth_chapter/ListUsefulFunction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/Lists.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fourth_chapter/Lists.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/MutListIsList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fourth_chapter/MutListIsList.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/MutableList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fourth_chapter/MutableList.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/MutableListRefs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fourth_chapter/MutableListRefs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/OutOfBounds.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fourth_chapter/OutOfBounds.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/ParametrizedReturn.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fourth_chapter/ParametrizedReturn.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/fourth_chapter/ParametrizedTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/fourth_chapter/ParametrizedTypes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/maps/GetValue.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/maps/Maps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/maps/Maps.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/maps/MutableMaps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/maps/MutableMaps.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/maps/ReadOnlyMaps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/maps/ReadOnlyMaps.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/constructors/Arg.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/constructors/Arg.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/constructors/DisplayAlienSpecies.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/constructors/DisplayAlienSpecies.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/constructors/MultipleArgs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/constructors/MultipleArgs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/constructors/Scientist.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/constructors/Scientist.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/constructors/VisibleArgs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/constructors/VisibleArgs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/constructors/Wombat.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/creating_a_classes/Animals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/creating_a_classes/Animals.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/creating_a_classes/Cat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/creating_a_classes/Cat.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/creating_a_classes/Dog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/creating_a_classes/Dog.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/creating_a_classes/Hamster.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/creating_a_classes/Hamster.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/packages/FullyQualify.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/packages/FullyQualify.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/packages/ImportClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/packages/ImportClass.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/packages/ImportEverything.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/packages/ImportEverything.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/packages/ImportNameChange.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/packages/ImportNameChange.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/packages/ImportPythagorean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/packages/ImportPythagorean.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/packages/PythagoreanTheorem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/packages/PythagoreanTheorem.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/properties/AnUnchangingVar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/properties/AnUnchangingVar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/properties/ChangingAVal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/properties/ChangingAVal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/properties/Cup.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/properties/Cup.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/properties/Cup2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/properties/Cup2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/properties/References.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/properties/References.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/properties/TopLevelProperty.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/properties/TopLevelProperty.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/visibility/Cookie.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/visibility/Cookie.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/visibility/MultipleRef.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/visibility/MultipleRef.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/visibility/ObserveAnimals.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/second_chapter/visibility/RecordAnimals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/second_chapter/visibility/RecordAnimals.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/sixth_chapter/MutableSet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/sixth_chapter/MutableSet.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/sixth_chapter/RemoveDuplicates.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/sixth_chapter/RemoveDuplicates.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/sixth_chapter/Sets.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/sixth_chapter/Sets.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/atomic_test/AtomicTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/third_chapter/atomic_test/AtomicTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/atomic_test/TDDFail.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/third_chapter/atomic_test/TDDFail.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/atomic_test/TDDStillFails.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/third_chapter/atomic_test/TDDStillFails.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/atomic_test/TDDWorks.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/third_chapter/atomic_test/TDDWorks.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/atomic_test/TestingExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/third_chapter/atomic_test/TestingExample.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/atomic_test/Tracel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/third_chapter/atomic_test/Tracel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/exceptions/AverageIncome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/third_chapter/exceptions/AverageIncome.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/exceptions/AverageIncomeWithException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/third_chapter/exceptions/AverageIncomeWithException.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/exceptions/AverageIncomeWithNull.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/third_chapter/exceptions/AverageIncomeWithNull.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/exceptions/IntroducingCapture.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/third_chapter/exceptions/IntroducingCapture.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/exceptions/IntroducingNull.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/third_chapter/exceptions/IntroducingNull.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/third_chapter/exceptions/ToIntException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/atomic_kotlin/section_1_2_3/third_chapter/exceptions/ToIntException.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/others/FirstTask.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/others/Rabbits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/others/SecondTask.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Arbuz.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Arbuz.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,8 +29,8 @@
       <list>
         <option value="Kotlin File" />
         <option value="Kotlin Enum" />
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -223,7 +68,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SetOperationsKt">
+  <component name="RunManager" selected="Kotlin.ArbuzKt">
     <configuration name="ArbuzKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArbuzKt" />
       <module name="Algorithms" />
@@ -231,48 +76,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ByOperationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.section_4.operations_on_collections_3.ByOperationsKt" />
+    <configuration name="NullableFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.section_4.high_order_functions_5.NullableFunctionKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterNotNullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.section_4.operations_on_collections_3.FilterNotNullKt" />
+    <configuration name="NullableReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.section_4.high_order_functions_5.NullableReturnKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetOperationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.section_4.operations_on_collections_3.SetOperationsKt" />
+    <configuration name="RepeatByIntKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.section_4.high_order_functions_5.RepeatByIntKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakeOrDropKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.section_4.operations_on_collections_3.TakeOrDropKt" />
+    <configuration name="RepeatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atomic_kotlin.section_4.high_order_functions_5.RepeatKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.SetOperationsKt" />
-      <item itemvalue="Kotlin.TakeOrDropKt" />
       <item itemvalue="Kotlin.ArbuzKt" />
-      <item itemvalue="Kotlin.ByOperationsKt" />
-      <item itemvalue="Kotlin.FilterNotNullKt" />
+      <item itemvalue="Kotlin.NullableFunctionKt" />
+      <item itemvalue="Kotlin.NullableReturnKt" />
+      <item itemvalue="Kotlin.RepeatByIntKt" />
+      <item itemvalue="Kotlin.RepeatKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.SetOperationsKt" />
-        <item itemvalue="Kotlin.TakeOrDropKt" />
         <item itemvalue="Kotlin.ArbuzKt" />
-        <item itemvalue="Kotlin.ByOperationsKt" />
-        <item itemvalue="Kotlin.FilterNotNullKt" />
+        <item itemvalue="Kotlin.NullableFunctionKt" />
+        <item itemvalue="Kotlin.NullableReturnKt" />
+        <item itemvalue="Kotlin.RepeatKt" />
+        <item itemvalue="Kotlin.RepeatByIntKt" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665555396263</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="kotlin course">
+      <created>1669811881366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669811881366</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,5 +175,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="kotlin course" />
     <option name="LAST_COMMIT_MESSAGE" value="kotlin course" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Arbuz.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

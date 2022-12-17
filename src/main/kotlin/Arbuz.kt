@@ -1,21 +1,27 @@
-fun main(vararg args: String) {
+fun main() {
+    println(checkPattern("abba", "dog cat cat dog dog cat cat dog dog cat cat dog"))
+}
+fun checkPattern(pattern: String, input: String): Boolean {
+    if(pattern.isBlank()) return false
 
-    val s = "coaching"
-    val t = "coding"
+    val words = input.split(" ")
+    val map = HashMap<Char, HashSet<String>>()
+    val patternStep = pattern.length
+    var cnt = -1
 
-    var count = t.length
-    var cnt = 0
-    val tLen = count
+    if (words.size % patternStep != 0) return false
 
-    for(i in s.indices) {
-        if(t.substring(cnt, tLen).indexOf(s[i]) != -1) {
-            count--
-            cnt++
-        } else {
-            break
+    for(i in words.indices step patternStep) {
+        cnt++
+        for (k in 0 until patternStep) {
+            val list = map.getOrDefault(pattern[k], HashSet())
+            list.add(words[k+cnt])
+            map[pattern[k]] = list
+            println(map)
         }
     }
 
-    println(count)
+    println(map)
+    return map.all { it.value.size == 1 }
 }
 
